@@ -1,0 +1,16 @@
+c:\users\instruktor\documents\visual studio 2013\Projects\Demo15\Demo15\bin\Debug\Demo15.exe.config
+c:\users\instruktor\documents\visual studio 2013\Projects\Demo15\Demo15\bin\Debug\Demo15.exe
+c:\users\instruktor\documents\visual studio 2013\Projects\Demo15\Demo15\bin\Debug\Demo15.pdb
+c:\users\instruktor\documents\visual studio 2013\Projects\Demo15\Demo15\obj\Debug\Demo15.csprojResolveAssemblyReference.cache
+c:\users\instruktor\documents\visual studio 2013\Projects\Demo15\Demo15\obj\Debug\Demo15.exe
+c:\users\instruktor\documents\visual studio 2013\Projects\Demo15\Demo15\obj\Debug\Demo15.pdb
+C:\Upload\Code\Projects\Demo15\Demo15\bin\Debug\Demo15.exe.config
+C:\Upload\Code\Projects\Demo15\Demo15\obj\Debug\Demo15.exe
+C:\Upload\Code\Projects\Demo15\Demo15\obj\Debug\Demo15.pdb
+D:\git\Demo15\Demo15\obj\Debug\Demo15.csprojResolveAssemblyReference.cache
+D:\git\Demo15\Demo15\obj\Debug\Demo15.csproj.CoreCompileInputs.cache
+D:\git\Demo15\Demo15\obj\Debug\Demo15.exe
+D:\git\Demo15\Demo15\obj\Debug\Demo15.pdb
+D:\git\Demo15\Demo15\bin\Debug\Demo15.exe.config
+D:\git\Demo15\Demo15\bin\Debug\Demo15.exe
+D:\git\Demo15\Demo15\bin\Debug\Demo15.pdb
